@@ -52,7 +52,7 @@
       scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
       startupCap: 1, // 1-200
-      startupVolume: 0, // 0-100
+      startupVolume: 50, // 0-100
       startupEmoji: false, // true or false
       autowoot: true,
       autoskip: false,
@@ -95,9 +95,9 @@
       etaRestriction: false,
       welcome: true,
       opLink: null,
-      rulesLink: null,
+      rulesLink: "All songs must have melodic vocals in English on verses & chorus." ,
       themeLink: null,
-      fbLink: null,
+      fbLink: "https://github.com/basicBot/custom" ,
       youtubeLink: null,
       website: null,
       intervalMessages: [],
